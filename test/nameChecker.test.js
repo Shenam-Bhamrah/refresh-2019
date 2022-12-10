@@ -1,0 +1,1 @@
+import { nameChecker } from "../src/client/nameChecker"
